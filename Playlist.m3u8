@@ -133,3 +133,9 @@ http://103.55.144.46/hls/pogo.m3u8
 http://103.55.144.46/hls/madani.m3u8
 #EXTINF:-1 ,Unknown_67
 http://103.55.144.46/hls/qurqntv.m3u8
+#EXTINF:-1 , GTV HD
+http://172.22.22.76/live/feed1001/index.m3u8
+#EXTINF:-1 , T Sports HD
+http://172.22.22.76/live/feed1002/index.m3u8
+#EXTINF:-1 , Star Sports 1 HD
+http://172.22.22.76/live/feed1003/index.m3u8
