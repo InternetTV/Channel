@@ -1,137 +1,137 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 ,Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 ,Unknown_2
+#EXTINF:-1 ,Sun Bangla
 http://103.55.144.46/hls/sunbangla.m3u8
-#EXTINF:-1 ,Unknown_3
+#EXTINF:-1 ,Independent Television
 http://103.55.144.46/hls/indepen.m3u8
-#EXTINF:-1 ,Unknown_4
+#EXTINF:-1 ,Sony Aath
 http://103.55.144.46/hls/Sony_Aath.m3u8
-#EXTINF:-1 ,Unknown_5
+#EXTINF:-1 ,GTV HD
 http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 ,Unknown_6
+#EXTINF:-1 ,Travelxp HD
 http://103.55.144.46/hls/travelxp.m3u8
-#EXTINF:-1 ,Unknown_7
+#EXTINF:-1 ,NEXUS Television HD
 http://103.55.144.46/hls/nexus.m3u8
-#EXTINF:-1 ,Unknown_8
+#EXTINF:-1 ,Channel i HD
 http://103.55.144.46/hls/channeli.m3u8
-#EXTINF:-1 ,Unknown_9
+#EXTINF:-1 ,Maasranga Television HD
 http://103.55.144.46/hls/masranga.m3u8
-#EXTINF:-1 ,Unknown_10
+#EXTINF:-1 ,Somoy TV
 http://103.55.144.46/hls/somoy.m3u8
-#EXTINF:-1 ,Unknown_11
+#EXTINF:-1 ,Zee Bangla Cinema
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 ,Unknown_12
+#EXTINF:-1 ,Colors Bangla Cinema
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 ,Unknown_13
+#EXTINF:-1 ,Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
-#EXTINF:-1 ,Unknown_14
+#EXTINF:-1 ,Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
-#EXTINF:-1 ,Unknown_15
+#EXTINF:-1 ,Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 ,Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 ,Unknown_17
+#EXTINF:-1 ,Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
-#EXTINF:-1 ,Unknown_18
+#EXTINF:-1 ,Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
-#EXTINF:-1 ,Unknown_19
+#EXTINF:-1 ,Star Movies HD
 http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 ,Unknown_20
+#EXTINF:-1 ,BBC Earth HD
 http://103.55.144.46/hls/bbcearth.m3u8
-#EXTINF:-1 ,Unknown_21
+#EXTINF:-1 ,Discovery Science
 http://103.55.144.46/hls/dis-science.m3u8
-#EXTINF:-1 ,Unknown_22
+#EXTINF:-1 ,MN+ HD
 http://103.55.144.46/hls/mn+.m3u8
-#EXTINF:-1 ,Unknown_23
+#EXTINF:-1 ,Animal Planet HD
 http://103.55.144.46/hls/animalplanent.m3u8
-#EXTINF:-1 ,Unknown_24
+#EXTINF:-1 ,Discovery HD
 http://103.55.144.46/hls/discovery.m3u8
-#EXTINF:-1 ,Unknown_25
+#EXTINF:-1 ,National Geographic HD
 http://103.55.144.46/hls/ngohd.m3u8
-#EXTINF:-1 ,Unknown_26
+#EXTINF:-1 ,TLC HD
 http://103.55.144.46/hls/tlc.m3u8
-#EXTINF:-1 ,Unknown_27
+#EXTINF:-1 ,NAT GEO WILD HD
 http://103.55.144.46/hls/wild.m3u8
-#EXTINF:-1 ,Unknown_28
+#EXTINF:-1 ,Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
-#EXTINF:-1 ,Unknown_29
+#EXTINF:-1 ,MNX HD
 http://103.55.144.46/hls/mnx-hd.m3u8
-#EXTINF:-1 ,Unknown_30
+#EXTINF:-1 ,AXN
 http://103.55.144.46/hls/axn.m3u8
-#EXTINF:-1 ,Unknown_31
+#EXTINF:-1 ,BBC World News
 http://103.55.144.46/hls/bbcworld.m3u8
-#EXTINF:-1 ,Unknown_32
+#EXTINF:-1 ,Al Jazeera
 http://103.55.144.46/hls/aljazeera.m3u8
-#EXTINF:-1 ,Unknown_33
+#EXTINF:-1 ,Bindass
 http://103.55.144.46/hls/bindass.m3u8
-#EXTINF:-1 ,Unknown_34
+#EXTINF:-1 ,UTV Action
 http://103.55.144.46/hls/utvaction.m3u8
-#EXTINF:-1 ,Unknown_35
+#EXTINF:-1 ,Zoom
 http://103.55.144.46/hls/zoom.m3u8
-#EXTINF:-1 ,Unknown_36
+#EXTINF:-1 ,&pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
-#EXTINF:-1 ,Unknown_37
+#EXTINF:-1 ,Colors TV HD
 http://103.55.144.46/hls/colore-tv-hd.m3u8
-#EXTINF:-1 ,Unknown_38
+#EXTINF:-1 ,Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
-#EXTINF:-1 ,Unknown_39
+#EXTINF:-1 ,Star Plus HD
 http://103.55.144.46/hls/starplus.m3u8
-#EXTINF:-1 ,Unknown_40
+#EXTINF:-1 ,Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:-1 ,Unknown_41
+#EXTINF:-1 ,SET Max
 http://103.55.144.46/hls/sonymax.m3u8
-#EXTINF:-1 ,Unknown_42
+#EXTINF:-1 ,Star Gold 2
 http://103.55.144.46/hls/stargold2hd.m3u8
-#EXTINF:-1 ,Unknown_43
+#EXTINF:-1 ,Sony Entertainment Television HD
 http://103.55.144.46/hls/sonyen.m3u8
-#EXTINF:-1 ,Unknown_44
+#EXTINF:-1 ,SET Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
-#EXTINF:-1 ,Unknown_45
+#EXTINF:-1 ,Zee TV HD
 http://103.55.144.46/hls/zeetv.m3u8
-#EXTINF:-1 ,Unknown_46
+#EXTINF:-1 ,Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
-#EXTINF:-1 ,Unknown_47
+#EXTINF:-1 ,Goldmines
 http://103.55.144.46/hls/dhin.m3u8
-#EXTINF:-1 ,Unknown_48
+#EXTINF:-1 ,9XM
 http://103.55.144.46/hls/9xm.m3u8
-#EXTINF:-1 ,Unknown_49
+#EXTINF:-1 ,Sony Six HD
 http://103.55.144.46/hls/sonysix.m3u8
-#EXTINF:-1 ,Unknown_50
+#EXTINF:-1 ,Eurosport
 http://103.55.144.46/hls/euro.m3u8
-#EXTINF:-1 ,Unknown_51
+#EXTINF:-1 ,Star Sports 3
 http://103.55.144.46/hls/starsports3.m3u8
-#EXTINF:-1 ,Unknown_52
+#EXTINF:-1 ,Star Sports Select 1 HD
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 ,Unknown_53
+#EXTINF:-1 ,Star Sports 1 HD
 http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 ,Unknown_54
+#EXTINF:-1 ,Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
-#EXTINF:-1 ,Unknown_55
+#EXTINF:-1 ,Sony Ten 3
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 ,Unknown_56
+#EXTINF:-1 ,Star Sports Select 2 HD
 http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 ,Unknown_57
+#EXTINF:-1 ,Sony Ten 2 HD
 http://103.55.144.46/hls/sonyten2.m3u8
-#EXTINF:-1 ,Unknown_58
+#EXTINF:-1 ,Sony Ten 1 HD
 http://103.55.144.46/hls/sonyten1.m3u8
-#EXTINF:-1 ,Unknown_59
+#EXTINF:-1 ,T Sports HD
 http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 ,Unknown_60
+#EXTINF:-1 ,Ten Sports
 http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 ,Unknown_61
+#EXTINF:-1 ,PTV Sports HD
 http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1 ,Unknown_62
+#EXTINF:-1 ,Discovery Kids
 http://103.55.144.46/hls/dis-kid.m3u8
-#EXTINF:-1 ,Unknown_63
+#EXTINF:-1 ,Nickelodeon
 http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 ,Unknown_64
+#EXTINF:-1 ,Cartoon Network
 http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 ,Unknown_65
+#EXTINF:-1 ,Pogo
 http://103.55.144.46/hls/pogo.m3u8
-#EXTINF:-1 ,Unknown_66
+#EXTINF:-1 ,Madani Channel Bangla
 http://103.55.144.46/hls/madani.m3u8
-#EXTINF:-1 ,Unknown_67
+#EXTINF:-1 ,Makkah Quran TV
 http://103.55.144.46/hls/qurqntv.m3u8
 #EXTINF:-1 , GTV HD
 http://172.22.22.76/live/feed1001/index.m3u8
