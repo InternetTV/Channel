@@ -133,13 +133,13 @@ http://103.55.144.46/hls/pogo.m3u8
 http://103.55.144.46/hls/madani.m3u8
 #EXTINF:-1 ,Makkah Quran TV
 http://103.55.144.46/hls/qurqntv.m3u8
-#EXTINF:-1 ,GTV HD
+#EXTINF:-1 ,GTV HD (1)
 http://172.22.22.76/live/feed1001/index.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 ,T Sports HD (1)
 http://172.22.22.76/live/feed1002/index.m3u8
-#EXTINF:-1 ,Star Sports 1 HD
+#EXTINF:-1 ,Sony Ten 2 HD (1)
 http://172.22.22.76/live/feed1003/index.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 ,T Sports HD (2)
 http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
-#EXTINF:-1 ,T Sports HD
+#EXTINF:-1 ,T Sports HD (3)
 http://30.30.30.30:8081/tschannel/channel2/playlist.m3u8
