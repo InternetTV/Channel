@@ -143,31 +143,34 @@ http://172.22.22.76/live/feed1003/index.m3u8
 http://30.30.30.30:8081/tschannel/channel1/playlist.m3u8
 #EXTINF:-1 ,T Sports HD (3)
 http://30.30.30.30:8081/tschannel/channel2/playlist.m3u8
+
+
+_____________VOD_____________
+
+
 #EXTINF:-1 ,Unknown_1
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/bdip1/index.m3u8
 #EXTINF:-1 ,Unknown_2
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/ishurdi-1/index.m3u8
 #EXTINF:-1 ,Unknown_3
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
+http://103.124.110.34:8082/ishurdi2/index.m3u8
 #EXTINF:-1 ,Unknown_4
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
+http://103.124.110.34:8082/ishurdi3/index.m3u8
 #EXTINF:-1 ,Unknown_5
-http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/ishurdi4/index.m3u8
 #EXTINF:-1 ,Unknown_6
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/ishurdi7/index.m3u8
 #EXTINF:-1 ,Unknown_7
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_8
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/ishurdi/index.m3u8
+#EXTINF:-1 ,Unknown_9
+http://103.124.110.34:8082/tsp/index.m3u8
 #EXTINF:-1 ,Unknown_10
-http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/gtv/index.m3u8
 #EXTINF:-1 ,Unknown_11
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/tv13/index.m3u8
 #EXTINF:-1 ,Unknown_12
-http://144.217.70.181:9587/hin2/ZEETVHD/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/tv14/index.m3u8
 #EXTINF:-1 ,Unknown_13
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/Adsports1/index.m3u8
 #EXTINF:-1 ,Unknown_14
-http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Unknown_15
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://103.124.110.34:8082/ATN-Bangla/index.m3u8
